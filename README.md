@@ -75,10 +75,10 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
 <p align="justify"> To suggest a sell price, again the density by region will be considered, since for regions where the number of real estate ads is lower it's possible to sell the property for a higher price, and vice-versa. Hence, a reasonable rule for suggested sell prices is: </p>
 
-- From 0 to 204 properties in the region => Sell for 16% than the suggested buy price 
-- From 205 to 282 properties in the region => Sell for 14% than the suggested buy price
-- From 283 to 408 properties in the region => Sell for 12% than the suggested buy price
-- From 409 properties upwards => Sell for 10% than the suggested buy price
+- From 0 to 204 properties in the region => Sell for 16% more than the suggested buy price 
+- From 205 to 282 properties in the region => Sell for 14% more than the suggested buy price
+- From 283 to 408 properties in the region => Sell for 12% more than the suggested buy price
+- From 409 properties upwards => Sell for 10% more than the suggested buy price
 
 <p align="justify"> <i>It's important to point out that selling a property for 10-16% more than the paid price is just a suggestion, so that the selling prices are realistic, since selling a property on a short run for say 30-40% more, although it can happen, it seems unlikely (or it would take too long to sell).</i> </p>
 
